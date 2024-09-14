@@ -1,3 +1,6 @@
 [submodule "glypai-api"]
 	path = glypai-api
 	url = https://github.com/Rishi01Prince/glypai-api.git
+[submodule "glypai-web"]
+	path = glypai-web
+	url = https://github.com/Rishi01Prince/glypai-web.git
