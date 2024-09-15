@@ -4,3 +4,6 @@
 [submodule "glypai-web"]
 	path = glypai-web
 	url = https://github.com/Rishi01Prince/glypai-web.git
+[submodule "glypai-event-stream"]
+	path = glypai-event-stream
+	url = https://github.com/Rishi01Prince/glypai-event-stream.git
